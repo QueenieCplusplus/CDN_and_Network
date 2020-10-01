@@ -83,3 +83,6 @@ Ping、Traceroute
       16  usw2-1-lbb.bf2.yahoo.com (74.6.98.139)  187.076 ms
          
 
+# DHCP & DNS 
+
+倘若主機位置是透過 DHCP 獲得，因為有分配的 ip 位址具時效性
