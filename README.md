@@ -86,3 +86,4 @@ Ping、Traceroute
 # DHCP & DNS 
 
 倘若主機位置是透過 DHCP 獲得，因為有分配的 ip 位址具時效性，則 DNS 對其無能為力。
+DHCP 一般不適用於使用在無邊際路由器和 DNS 伺服器上。
